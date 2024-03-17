@@ -23,3 +23,7 @@
 ### * Choosing the right estimator in Machine Learning — An Use Case Driven Approach
 
 ### * How business knowledge can increase your value as programmer
+
+### * What is Work Ethic?
+
+### * Performance in modern Software
