@@ -1,3 +1,5 @@
+# 8 Rules of Software Engineers
+
 Embarking on my journey in the Software Development industry began in high school, where I delved into various technologies and coding practices. By the time I entered university, I had a solid foundation in good coding practices, understood RESTful API architecture, comprehended MVC principles, and was acquainted with diverse programming paradigms. This laid a strong groundwork, marking me as a well-defined junior in the field.
 
 However, the reality check arrived during my first internship. It was a crash course in the gaps between theoretical knowledge and practical application. Concepts that seemed concrete in theory became fluid and nuanced in practice. Each day was a lesson, revealing the intricacies and subtleties of how systems truly operate.
